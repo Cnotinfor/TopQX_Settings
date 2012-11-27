@@ -11,3 +11,17 @@
 *.lai
 *.la
 *.a
+
+
+
+*-build-desktop
+*.pro.user*
+tmp
+lib
+Makefile*
+/proj.win32/Debug.win32
+/proj.win32/Debug
+/proj.win32/Release
+/proj.win32/Release.win32
+/proj.win32/CnotiSettings2.vcxproj.user
+docs
